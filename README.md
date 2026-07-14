@@ -120,7 +120,7 @@ six_sigma_manufacturing/
 ├── tableau/
 │   └── CI_Defect_Reduction_Dashboard.twbx   # Packaged Tableau workbook
 ├── assets/
-│   └── portfolio_card.html                  # Portfolio card markup
+│   └── ci_defect_card_1.html                  # Portfolio card markup
 └── README.md
 ```
 
